@@ -4,9 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
-- 🔭 I’m currently working on [Ecommerce website using JWT token and Angular](https://github.com/shahanasha/Ecommerce_JWT.git)
+- 🔭 I’m currently working on [React Projects](https://github.com/shahanasha/Ecommerce_JWT.git)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
